@@ -23,7 +23,7 @@ public class CellPhoneApplication {
 
         public int getSerialNumber() {
             return this.serialNumber;
-        }
+        }/
 
     }
 }
